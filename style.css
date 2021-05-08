@@ -31,14 +31,13 @@ nav a:hover{
 	background-color: rgb(119, 117, 117);
 }
 
-@media screen and (min-width: 768px)
-{
+
 	nav ul{
 		display: flex;
 		justify-content: flex-start;
         margin-top: 20px;
 	}
-}
+
 h1{
 	font-style: helvetica;
 	padding:10px;
